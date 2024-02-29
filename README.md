@@ -19,8 +19,8 @@
 
 Here are some of the technologies and tools I work with:
 
-- **Languages**: Java, Javascript, React
-- **Frameworks**: SpringBoot
+- **Languages**: Java, Javascript, Typescript
+- **Frameworks**: SpringBoot, Angular
 - **Databases**: Sql Server, MySql, PostgresSql, MongoDb
 
 I'm always excited to explore new technologies and incorporate them into my projects.
