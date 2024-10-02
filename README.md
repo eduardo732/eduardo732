@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">👋 Hi there! I'm Eduardo Fuentes, a passionate software developer who loves crafting robust and efficient solutions to complex problems. I'm dedicated to continuous learning and enjoy staying updated with the latest technologies in the world of backend development.<br><br>🌱 I'm on a journey to become better at what I do every day. Learning is a lifelong process, and I believe that staying curious and embracing new technologies is the key to success in the fast-paced world of software development.<br><br>💼 Currently, I work as a Backend Developer at Inovabiz, where I'm responsible for fix bugs on a platform called Mercado Público.</p>
+<p align="left">👋 Hi there! I'm Eduardo Fuentes, a passionate software developer who loves crafting robust and efficient solutions to complex problems. I'm dedicated to continuous learning and enjoy staying updated with the latest technologies in the world of backend development.<br><br>🌱 I'm on a journey to become better at what I do every day. Learning is a lifelong process, and I believe that staying curious and embracing new technologies is the key to success in the fast-paced world of software development.<br><br>💼 Currently, I work as a Backend Developer at Inovabiz.</p>
 
 ###
 
