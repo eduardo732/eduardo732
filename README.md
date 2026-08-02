@@ -1,6 +1,6 @@
 # Hi, I'm Edu 👋
 
-**Backend Engineer · System Design Enthusiast · Tech Content Creator**  
+**Software Engineer · System Design Enthusiast · Tech Content Creator**  
 Chile 🇨🇱  
 
 +5 years building software and continuously learning how to build it better.
@@ -31,6 +31,7 @@ Chile 🇨🇱
 - HTML
 - TailwindCSS
 - JavaScript
+- React
 
 ---
 
