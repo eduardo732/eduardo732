@@ -35,12 +35,6 @@ Chile 🇨🇱
 
 ---
 
-## 🔥 GitHub Stats
-
-![Streak Stats](https://streak-stats.demolab.com?user=eduardo732&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
-
----
-
 ## 🎯 Career Focus
 
 Currently aiming to grow within a **product-driven company**,  
